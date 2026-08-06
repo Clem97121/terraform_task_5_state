@@ -24,4 +24,4 @@ provider "azurerm" {
 resource "azurerm_resource_group" "example" {
   name     = "rg-demo-remote"
   location = "East US"
-}
+} 
